@@ -1,4 +1,4 @@
-See more at [bret.io](https://bret.io)
+Check out my website: [bret.io](https://bret.io)
 
 <!--
 **bcomnes/bcomnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
